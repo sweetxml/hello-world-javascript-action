@@ -2,9 +2,7 @@
     "name": "Octo Organization Workflow",
     "description": "Octo Organization CI starter workflow.",
     "iconName": "example-icon",
-    "categories": [
-        "Go"
-    ],
+    "categories": ["Go", "deployment"],
     "filePatterns": [
         "package.json$",
         "^Dockerfile",
